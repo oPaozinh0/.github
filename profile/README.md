@@ -32,8 +32,6 @@ Sou um desenvolvedor apaixonado por criar soluções elegantes e eficientes. Com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-*Habilidades extraídas do ficheiro `app/View/Components/SkillsSection.php`.*
-
 ### 📊 Estatísticas do GitHub:
 [![Estatísticas do GitHub de oPaozinh0](https://github-readme-stats.vercel.app/api?username=oPaozinh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oPaozinh0&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,5 +43,3 @@ Sou um desenvolvedor apaixonado por criar soluções elegantes e eficientes. Com
 <a href="https://wa.me/5518998268057" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-
-*Links e informações de contacto extraídos dos ficheiros `app/View/Components/HeroSection.php` e `app/View/Components/SiteFooter.php`.*
