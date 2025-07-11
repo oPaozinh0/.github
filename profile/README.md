@@ -33,7 +33,7 @@ Sou um desenvolvedor apaixonado por criar soluções elegantes e eficientes. Com
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 📊 Estatísticas do GitHub:
-[![Estatísticas do GitHub de oPaozinh0](https://github-readme-stats.vercel.app/api?username=oPaozinh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de oPaozinh0](https://github-readme-stats.vercel.app/api?username=opaozinh0)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oPaozinh0&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Conecte-se comigo:
