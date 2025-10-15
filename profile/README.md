@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim:
 Sou um desenvolvedor apaixonado por criar soluções elegantes e eficientes. Com uma base sólida em PHP e Laravel, busco constantemente aprender novas tecnologias para construir aplicações web robustas e de alta qualidade. Fora do código, gosto de explorar o mundo dos jogos digitais, o que me dá uma perspectiva criativa para a resolução de problemas.
 
-- 🔭 Atualmente sou Desenvolvedor Fullstack na **Amplimed**.
+- 🔭 Atualmente sou Desenvolvedor Fullstack sem contrato.
 - 🌱 Especializado na criação de aplicações web robustas e escaláveis com Laravel.
 - 📫 Como me encontrar: [davioliveira353.do@gmail.com](mailto:davioliveira353.do@gmail.com).
 
