@@ -55,8 +55,8 @@ My background in **Data Quality and Migration** provides me with a unique abilit
 
 ### 📊 GitHub Stats
 
-[Stats](./profile/stats.svg)
-[Top Langs](./profile/top-langs.svg)
+![Stats](./stats.svg)
+![Top Langs](./top-langs.svg)
 
 ---
 
