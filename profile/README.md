@@ -55,8 +55,8 @@ My background in **Data Quality and Migration** provides me with a unique abilit
 
 ### 📊 GitHub Stats
 
-[![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=opaozinh0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oPaozinh0&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[Stats](./profile/stats.svg)
+[Top Langs](./profile/top-langs.svg)
 
 ---
 
