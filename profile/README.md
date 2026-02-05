@@ -53,13 +53,6 @@ My background in **Data Quality and Migration** provides me with a unique abilit
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](./stats.svg)
-![Top Langs](./top-langs.svg)
-
----
-
 ### 🔗 Let's Connect
 
 <div align="left">
