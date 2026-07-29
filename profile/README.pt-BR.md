@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Davi de Oliveira Vieira — Desenvolvedor Full Stack Sênior" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/banner.svg" width="100%" alt="Davi de Oliveira Vieira — Desenvolvedor Full Stack Sênior" />
 
-<img src="assets/typing.pt-BR.svg" alt="6+ anos construindo sistemas web escaláveis · PHP 8, Laravel 11, Vue 3, Python, Go · ETL, migração de dados e precisão em BI · Fundador da AttriOn" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/typing.pt-BR.svg" alt="6+ anos construindo sistemas web escaláveis · PHP 8, Laravel 11, Vue 3, Python, Go · ETL, migração de dados e precisão em BI · Fundador da AttriOn" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-141321?style=flat-square&logo=handshake&logoColor=2ECC71" alt="Aberto a oportunidades" />
 <img src="https://img.shields.io/badge/Ingl%C3%AAs-Avan%C3%A7ado-141321?style=flat-square&logo=googletranslate&logoColor=3178C6" alt="Inglês: Avançado" />
 
-<a href="README.md">English</a> · **Português**
+<a href="https://github.com/oPaozinh0/.github/blob/main/profile/README.md">English</a> · **Português**
 
 </div>
 
@@ -79,7 +79,7 @@ Fora da IDE, exploro o mundo dos jogos digitais, o que mantém um ângulo criati
 ## 📊 Impacto em Números
 
 <div align="center">
-  <img src="assets/metrics.pt-BR.svg" width="100%" alt="30% de latência a menos na API · 80% de cobertura de testes · 20h economizadas por mês · 99,9% de uptime · 100% de integridade de dados · 10h por migração (eram 2 dias) · +50% mais rápido no onboarding · 95%+ de CSAT no suporte" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/metrics.pt-BR.svg" width="100%" alt="30% de latência a menos na API · 80% de cobertura de testes · 20h economizadas por mês · 99,9% de uptime · 100% de integridade de dados · 10h por migração (eram 2 dias) · +50% mais rápido no onboarding · 95%+ de CSAT no suporte" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ Fora da IDE, exploro o mundo dos jogos digitais, o que mantém um ângulo criati
 ## 🛠️ Stack Técnica
 
 <div align="center">
-  <img src="assets/stack.pt-BR.svg" width="100%" alt="Backend: PHP 8, Laravel 11, Python, Go, GraphQL, OpenAPI, Composer. Frontend: Vue.js 3, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite. Bancos de dados: MySQL, PostgreSQL, MariaDB, MongoDB, Redis, SQLite. Infraestrutura: Docker, Kubernetes, Linux, Nginx, AWS, DigitalOcean, GitHub Actions. Ferramentas: Git, Jira, Bitbucket, Claude Code, TDD, Clean Architecture, SOLID, Scrum" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/stack.pt-BR.svg" width="100%" alt="Backend: PHP 8, Laravel 11, Python, Go, GraphQL, OpenAPI, Composer. Frontend: Vue.js 3, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite. Bancos de dados: MySQL, PostgreSQL, MariaDB, MongoDB, Redis, SQLite. Infraestrutura: Docker, Kubernetes, Linux, Nginx, AWS, DigitalOcean, GitHub Actions. Ferramentas: Git, Jira, Bitbucket, Claude Code, TDD, Clean Architecture, SOLID, Scrum" />
 </div>
 
 ---
@@ -228,7 +228,7 @@ timeline
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="assets/achievements.pt-BR.svg" width="100%" alt="1,5K commits · rank B- no GitHub · 35 pull requests, 86% aprovados · 1,6K contribuições · 28 dias seguidos de recorde · 53 repositórios · 6+ anos em produção · 99,9% de uptime · MBA em Data Science · Summa cum Laude" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/achievements.pt-BR.svg" width="100%" alt="1,5K commits · rank B- no GitHub · 35 pull requests, 86% aprovados · 1,6K contribuições · 28 dias seguidos de recorde · 53 repositórios · 6+ anos em produção · 99,9% de uptime · MBA em Data Science · Summa cum Laude" />
 </div>
 
 ---
@@ -237,16 +237,16 @@ timeline
 
 <div align="center">
 
-<img src="assets/stats.pt-BR.svg" alt="Estatísticas do GitHub" height="195" />
-<img src="assets/top-langs.pt-BR.svg" alt="Linguagens mais usadas" height="195" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/stats.pt-BR.svg" alt="Estatísticas do GitHub" height="195" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/top-langs.pt-BR.svg" alt="Linguagens mais usadas" height="195" />
 
 <br/><br/>
 
-<img src="assets/streak.pt-BR.svg" alt="Sequência de contribuições" height="195" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/streak.pt-BR.svg" alt="Sequência de contribuições" height="195" />
 
 <br/><br/>
 
-<img src="assets/activity.pt-BR.svg" width="100%" alt="Atividade de contribuições no último ano" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/activity.pt-BR.svg" width="100%" alt="Atividade de contribuições no último ano" />
 
 <sub>📌 Os números incluem repositórios privados — é onde vive a maior parte do meu trabalho profissional.</sub>
 
@@ -259,9 +259,9 @@ timeline
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img src="assets/github-snake.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/github-snake.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições" />
 </picture>
 
 </div>
@@ -280,6 +280,6 @@ Estou aberto a conversas sobre **backends escaláveis**, **arquitetura de SaaS**
 <a href="mailto:davioliveira353.do@gmail.com"><img src="https://img.shields.io/badge/Enviar%20um%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/5518998268057"><img src="https://img.shields.io/badge/Chamar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<img src="assets/footer.pt-BR.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/footer.pt-BR.svg" width="100%" alt="" />
 
 </div>

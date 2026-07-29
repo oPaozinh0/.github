@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Davi de Oliveira Vieira — Senior Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/banner.svg" width="100%" alt="Davi de Oliveira Vieira — Senior Full Stack Developer" />
 
-<img src="assets/typing.svg" alt="6+ years building scalable web systems · PHP 8, Laravel 11, Vue 3, Python, Go · ETL, data migration and BI accuracy · Founder of AttriOn" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/typing.svg" alt="6+ years building scalable web systems · PHP 8, Laravel 11, Vue 3, Python, Go · ETL, data migration and BI accuracy · Founder of AttriOn" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Open%20to%20opportunities-141321?style=flat-square&logo=handshake&logoColor=2ECC71" alt="Open to opportunities" />
 <img src="https://img.shields.io/badge/English-Advanced-141321?style=flat-square&logo=googletranslate&logoColor=3178C6" alt="English: Advanced" />
 
-**English** · <a href="README.pt-BR.md">Português</a>
+**English** · <a href="https://github.com/oPaozinh0/.github/blob/main/profile/README.pt-BR.md">Português</a>
 
 </div>
 
@@ -79,7 +79,7 @@ digital games, which keeps a creative angle on problem-solving.
 ## 📊 Impact in Numbers
 
 <div align="center">
-  <img src="assets/metrics.svg" width="100%" alt="30% faster API responses · 80% test coverage · 20h saved per month · 99.9% production uptime · 100% data integrity · 10h migrations (was 2 days) · +50% faster onboarding · 95%+ support CSAT" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/metrics.svg" width="100%" alt="30% faster API responses · 80% test coverage · 20h saved per month · 99.9% production uptime · 100% data integrity · 10h migrations (was 2 days) · +50% faster onboarding · 95%+ support CSAT" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ digital games, which keeps a creative angle on problem-solving.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/stack.svg" width="100%" alt="Backend: PHP 8, Laravel 11, Python, Go, GraphQL, OpenAPI, Composer. Frontend: Vue.js 3, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite. Databases: MySQL, PostgreSQL, MariaDB, MongoDB, Redis, SQLite. Infrastructure: Docker, Kubernetes, Linux, Nginx, AWS, DigitalOcean, GitHub Actions. Tools: Git, Jira, Bitbucket, Claude Code, TDD, Clean Architecture, SOLID, Scrum" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/stack.svg" width="100%" alt="Backend: PHP 8, Laravel 11, Python, Go, GraphQL, OpenAPI, Composer. Frontend: Vue.js 3, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite. Databases: MySQL, PostgreSQL, MariaDB, MongoDB, Redis, SQLite. Infrastructure: Docker, Kubernetes, Linux, Nginx, AWS, DigitalOcean, GitHub Actions. Tools: Git, Jira, Bitbucket, Claude Code, TDD, Clean Architecture, SOLID, Scrum" />
 </div>
 
 ---
@@ -228,7 +228,7 @@ timeline
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="assets/achievements.svg" width="100%" alt="1.5K commits · GitHub rank B- · 35 pull requests, 86% merged · 1.6K contributions · 28 day longest streak · 53 repositories · 6+ years in production · 99.9% uptime · MBA in Data Science · Summa cum Laude" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/achievements.svg" width="100%" alt="1.5K commits · GitHub rank B- · 35 pull requests, 86% merged · 1.6K contributions · 28 day longest streak · 53 repositories · 6+ years in production · 99.9% uptime · MBA in Data Science · Summa cum Laude" />
 </div>
 
 ---
@@ -237,16 +237,16 @@ timeline
 
 <div align="center">
 
-<img src="assets/stats.svg" alt="GitHub stats" height="195" />
-<img src="assets/top-langs.svg" alt="Most used languages" height="195" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/stats.svg" alt="GitHub stats" height="195" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/top-langs.svg" alt="Most used languages" height="195" />
 
 <br/><br/>
 
-<img src="assets/streak.svg" alt="Contribution streak" height="195" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/streak.svg" alt="Contribution streak" height="195" />
 
 <br/><br/>
 
-<img src="assets/activity.svg" width="100%" alt="Contribution activity over the last year" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/activity.svg" width="100%" alt="Contribution activity over the last year" />
 
 <sub>📌 Numbers include private repositories — that's where most of my professional work lives.</sub>
 
@@ -259,9 +259,9 @@ timeline
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img src="assets/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
 </picture>
 
 </div>
@@ -280,6 +280,6 @@ I'm open to conversations about **scalable backends**, **SaaS architecture** and
 <a href="mailto:davioliveira353.do@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/5518998268057"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/oPaozinh0/.github/main/profile/assets/footer.svg" width="100%" alt="" />
 
 </div>
