@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="224" viewBox="0 0 1000 224" role="img" aria-label="Impact: 30% faster API responses, 80% test coverage, 20h saved per month, 99.9% production uptime, 100% data integrity, 10h migration, was 2 days, +50% faster onboarding, 95%+ support CSAT">
+  <defs>
+    <linearGradient id="mg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FE428E"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+    <style>
+      .big { font: 700 32px 'Segoe UI', Ubuntu, sans-serif; fill: url(#mg) }
+      .lbl { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #A9FEF7 }
+      .sub { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #5F5A7A }
+      .m { opacity: 0; animation: up .6s ease forwards }
+      @keyframes up { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+      @media (prefers-color-scheme: light) {
+        .lbl { fill: #1F2328 }
+        .sub { fill: #6E7681 }
+      }
+    </style>
+  </defs>
+  <line x1="250" y1="18" x2="250" y2="206" stroke="#5F5A7A" stroke-opacity=".25"/>
+  <line x1="500" y1="18" x2="500" y2="206" stroke="#5F5A7A" stroke-opacity=".25"/>
+  <line x1="750" y1="18" x2="750" y2="206" stroke="#5F5A7A" stroke-opacity=".25"/>
+  <g class="m" style="animation-delay:0.08s">
+    <text class="big" x="125.0" y="58" text-anchor="middle">30%</text>
+    <text class="lbl" x="125.0" y="82" text-anchor="middle">faster API responses</text>
+    <text class="sub" x="125.0" y="100" text-anchor="middle">critical endpoint tuning</text>
+  </g>
+  <g class="m" style="animation-delay:0.15s">
+    <text class="big" x="375.0" y="58" text-anchor="middle">80%</text>
+    <text class="lbl" x="375.0" y="82" text-anchor="middle">test coverage</text>
+    <text class="sub" x="375.0" y="100" text-anchor="middle">PHPUnit on new features</text>
+  </g>
+  <g class="m" style="animation-delay:0.22s">
+    <text class="big" x="625.0" y="58" text-anchor="middle">20h</text>
+    <text class="lbl" x="625.0" y="82" text-anchor="middle">saved per month</text>
+    <text class="sub" x="625.0" y="100" text-anchor="middle">manual ETL automated</text>
+  </g>
+  <g class="m" style="animation-delay:0.29s">
+    <text class="big" x="875.0" y="58" text-anchor="middle">99.9%</text>
+    <text class="lbl" x="875.0" y="82" text-anchor="middle">production uptime</text>
+    <text class="sub" x="875.0" y="100" text-anchor="middle">Dockerized SaaS</text>
+  </g>
+  <g class="m" style="animation-delay:0.36s">
+    <text class="big" x="125.0" y="162" text-anchor="middle">100%</text>
+    <text class="lbl" x="125.0" y="186" text-anchor="middle">data integrity</text>
+    <text class="sub" x="125.0" y="204" text-anchor="middle">millions of health records</text>
+  </g>
+  <g class="m" style="animation-delay:0.43s">
+    <text class="big" x="375.0" y="162" text-anchor="middle">10h</text>
+    <text class="lbl" x="375.0" y="186" text-anchor="middle">migration, was 2 days</text>
+    <text class="sub" x="375.0" y="204" text-anchor="middle">custom conversion tooling</text>
+  </g>
+  <g class="m" style="animation-delay:0.50s">
+    <text class="big" x="625.0" y="162" text-anchor="middle">+50%</text>
+    <text class="lbl" x="625.0" y="186" text-anchor="middle">faster onboarding</text>
+    <text class="sub" x="625.0" y="204" text-anchor="middle">documented data architecture</text>
+  </g>
+  <g class="m" style="animation-delay:0.57s">
+    <text class="big" x="875.0" y="162" text-anchor="middle">95%+</text>
+    <text class="lbl" x="875.0" y="186" text-anchor="middle">support CSAT</text>
+    <text class="sub" x="875.0" y="204" text-anchor="middle">complex incident resolution</text>
+  </g>
+</svg>

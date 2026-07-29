@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="326" viewBox="0 0 1000 326" role="img" aria-label="Achievements: 1.5K Commits, B− Rank no GitHub, 35 Pull Requests, 1.6K Contribuições, 28 Dias Seguidos, 53 Repositórios, 6+ Anos, 99.9% Uptime, MBA Data Science, Summa Cum Laude">
+  <defs>
+    <linearGradient id="ag" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FE428E"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+    <style>
+      .hexbg { fill: url(#ag); fill-opacity: .13 }
+      .hexln { fill: none; stroke: url(#ag); stroke-width: 2 }
+      .av { font: 700 22px 'Segoe UI', Ubuntu, sans-serif; fill: #A9FEF7 }
+      .al { font: 700 12px 'Segoe UI', Ubuntu, sans-serif; fill: #FE428E; letter-spacing: .4px }
+      .as { font: 400 10.5px 'Segoe UI', Ubuntu, sans-serif; fill: #5F5A7A }
+      .a { opacity: 0; animation: rise .55s cubic-bezier(.2,.8,.3,1) forwards }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px) scale(.95) } to { opacity: 1; transform: none } }
+      @media (prefers-color-scheme: light) {
+        .av { fill: #1F2328 }
+        .al { fill: #D6336C }
+        .as { fill: #6E7681 }
+      }
+    </style>
+  </defs>
+  <g class="a" style="animation-delay:0.06s">
+    <polygon class="hexbg" points="100.0,22.0 134.6,42.0 134.6,82.0 100.0,102.0 65.4,82.0 65.4,42.0"/>
+    <polygon class="hexln" points="100.0,22.0 134.6,42.0 134.6,82.0 100.0,102.0 65.4,82.0 65.4,42.0"/>
+    <text class="av" x="100.0" y="68" text-anchor="middle" style="font-size:18px">1.5K</text>
+    <text class="al" x="100.0" y="128" text-anchor="middle">Commits</text>
+    <text class="as" x="100.0" y="145" text-anchor="middle">no total</text>
+  </g>
+  <g class="a" style="animation-delay:0.12s">
+    <polygon class="hexbg" points="300.0,22.0 334.6,42.0 334.6,82.0 300.0,102.0 265.4,82.0 265.4,42.0"/>
+    <polygon class="hexln" points="300.0,22.0 334.6,42.0 334.6,82.0 300.0,102.0 265.4,82.0 265.4,42.0"/>
+    <text class="av" x="300.0" y="69.33333333333333" text-anchor="middle" style="font-size:22px">B−</text>
+    <text class="al" x="300.0" y="128" text-anchor="middle">Rank no GitHub</text>
+    <text class="as" x="300.0" y="145" text-anchor="middle">top 69%</text>
+  </g>
+  <g class="a" style="animation-delay:0.18s">
+    <polygon class="hexbg" points="500.0,22.0 534.6,42.0 534.6,82.0 500.0,102.0 465.4,82.0 465.4,42.0"/>
+    <polygon class="hexln" points="500.0,22.0 534.6,42.0 534.6,82.0 500.0,102.0 465.4,82.0 465.4,42.0"/>
+    <text class="av" x="500.0" y="69.33333333333333" text-anchor="middle" style="font-size:22px">35</text>
+    <text class="al" x="500.0" y="128" text-anchor="middle">Pull Requests</text>
+    <text class="as" x="500.0" y="145" text-anchor="middle">86% aprovados</text>
+  </g>
+  <g class="a" style="animation-delay:0.24s">
+    <polygon class="hexbg" points="700.0,22.0 734.6,42.0 734.6,82.0 700.0,102.0 665.4,82.0 665.4,42.0"/>
+    <polygon class="hexln" points="700.0,22.0 734.6,42.0 734.6,82.0 700.0,102.0 665.4,82.0 665.4,42.0"/>
+    <text class="av" x="700.0" y="68" text-anchor="middle" style="font-size:18px">1.6K</text>
+    <text class="al" x="700.0" y="128" text-anchor="middle">Contribuições</text>
+    <text class="as" x="700.0" y="145" text-anchor="middle">e subindo</text>
+  </g>
+  <g class="a" style="animation-delay:0.30s">
+    <polygon class="hexbg" points="900.0,22.0 934.6,42.0 934.6,82.0 900.0,102.0 865.4,82.0 865.4,42.0"/>
+    <polygon class="hexln" points="900.0,22.0 934.6,42.0 934.6,82.0 900.0,102.0 865.4,82.0 865.4,42.0"/>
+    <text class="av" x="900.0" y="69.33333333333333" text-anchor="middle" style="font-size:22px">28</text>
+    <text class="al" x="900.0" y="128" text-anchor="middle">Dias Seguidos</text>
+    <text class="as" x="900.0" y="145" text-anchor="middle">recorde pessoal</text>
+  </g>
+  <g class="a" style="animation-delay:0.36s">
+    <polygon class="hexbg" points="100.0,180.0 134.6,200.0 134.6,240.0 100.0,260.0 65.4,240.0 65.4,200.0"/>
+    <polygon class="hexln" points="100.0,180.0 134.6,200.0 134.6,240.0 100.0,260.0 65.4,240.0 65.4,200.0"/>
+    <text class="av" x="100.0" y="227.33333333333334" text-anchor="middle" style="font-size:22px">53</text>
+    <text class="al" x="100.0" y="286" text-anchor="middle">Repositórios</text>
+    <text class="as" x="100.0" y="303" text-anchor="middle">criados e entregues</text>
+  </g>
+  <g class="a" style="animation-delay:0.42s">
+    <polygon class="hexbg" points="300.0,180.0 334.6,200.0 334.6,240.0 300.0,260.0 265.4,240.0 265.4,200.0"/>
+    <polygon class="hexln" points="300.0,180.0 334.6,200.0 334.6,240.0 300.0,260.0 265.4,240.0 265.4,200.0"/>
+    <text class="av" x="300.0" y="227.33333333333334" text-anchor="middle" style="font-size:22px">6+</text>
+    <text class="al" x="300.0" y="286" text-anchor="middle">Anos</text>
+    <text class="as" x="300.0" y="303" text-anchor="middle">em produção</text>
+  </g>
+  <g class="a" style="animation-delay:0.48s">
+    <polygon class="hexbg" points="500.0,180.0 534.6,200.0 534.6,240.0 500.0,260.0 465.4,240.0 465.4,200.0"/>
+    <polygon class="hexln" points="500.0,180.0 534.6,200.0 534.6,240.0 500.0,260.0 465.4,240.0 465.4,200.0"/>
+    <text class="av" x="500.0" y="226" text-anchor="middle" style="font-size:18px">99.9%</text>
+    <text class="al" x="500.0" y="286" text-anchor="middle">Uptime</text>
+    <text class="as" x="500.0" y="303" text-anchor="middle">no meu SaaS</text>
+  </g>
+  <g class="a" style="animation-delay:0.54s">
+    <polygon class="hexbg" points="700.0,180.0 734.6,200.0 734.6,240.0 700.0,260.0 665.4,240.0 665.4,200.0"/>
+    <polygon class="hexln" points="700.0,180.0 734.6,200.0 734.6,240.0 700.0,260.0 665.4,240.0 665.4,200.0"/>
+    <text class="av" x="700.0" y="227.33333333333334" text-anchor="middle" style="font-size:22px">MBA</text>
+    <text class="al" x="700.0" y="286" text-anchor="middle">Data Science</text>
+    <text class="as" x="700.0" y="303" text-anchor="middle">e Big Data</text>
+  </g>
+  <g class="a" style="animation-delay:0.60s">
+    <polygon class="hexbg" points="900.0,180.0 934.6,200.0 934.6,240.0 900.0,260.0 865.4,240.0 865.4,200.0"/>
+    <polygon class="hexln" points="900.0,180.0 934.6,200.0 934.6,240.0 900.0,260.0 865.4,240.0 865.4,200.0"/>
+    <text class="av" x="900.0" y="226" text-anchor="middle" style="font-size:18px">Summa</text>
+    <text class="al" x="900.0" y="286" text-anchor="middle">Cum Laude</text>
+    <text class="as" x="900.0" y="303" text-anchor="middle">tecnólogo em jogos</text>
+  </g>
+</svg>

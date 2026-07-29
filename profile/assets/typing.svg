@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="64" viewBox="0 0 720 64" role="img" aria-label="6+ years building scalable web systems — PHP 8 · Laravel 11 · Vue 3 · Python · Go — ETL, data migration &amp; BI accuracy — Founder of AttriOn — TikTok Ads SaaS">
+  <defs>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FE428E"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+    <clipPath id="clip0"><rect x="96.0" y="0" width="0" height="64"/></clipPath>
+    <clipPath id="clip1"><rect x="96.0" y="0" width="0" height="64"/></clipPath>
+    <clipPath id="clip2"><rect x="96.0" y="0" width="0" height="64"/></clipPath>
+    <clipPath id="clip3"><rect x="96.0" y="0" width="0" height="64"/></clipPath>
+    <style>
+      text { font: 600 22px 'Consolas','Fira Code','Courier New',monospace; fill: url(#tg); dominant-baseline: middle; }
+      rect.cur { fill: #FE428E }
+
+      @keyframes type0 {
+        0%, 0.000%      { width: 0 }
+        10.500%       { width: 501.6px }
+        21.500%       { width: 501.6px }
+        24.250%, 100% { width: 0 }
+      }
+      @keyframes cur0 {
+        0%, 0.000%      { transform: translateX(0); opacity: 0 }
+        0.500%       { opacity: 1 }
+        10.500%       { transform: translateX(501.6px); opacity: 1 }
+        21.500%       { transform: translateX(501.6px); opacity: 1 }
+        24.250%       { transform: translateX(0); opacity: 0 }
+        100%              { opacity: 0 }
+      }
+      #clip0 rect { animation: type0 16s steps(38, end) infinite }
+      #cursor0    { animation: cur0 16s steps(38, end) infinite }
+
+      @keyframes type1 {
+        0%, 25.000%      { width: 0 }
+        35.500%       { width: 528.0px }
+        46.500%       { width: 528.0px }
+        49.250%, 100% { width: 0 }
+      }
+      @keyframes cur1 {
+        0%, 25.000%      { transform: translateX(0); opacity: 0 }
+        25.500%       { opacity: 1 }
+        35.500%       { transform: translateX(528.0px); opacity: 1 }
+        46.500%       { transform: translateX(528.0px); opacity: 1 }
+        49.250%       { transform: translateX(0); opacity: 0 }
+        100%              { opacity: 0 }
+      }
+      #clip1 rect { animation: type1 16s steps(40, end) infinite }
+      #cursor1    { animation: cur1 16s steps(40, end) infinite }
+
+      @keyframes type2 {
+        0%, 50.000%      { width: 0 }
+        60.500%       { width: 435.6px }
+        71.500%       { width: 435.6px }
+        74.250%, 100% { width: 0 }
+      }
+      @keyframes cur2 {
+        0%, 50.000%      { transform: translateX(0); opacity: 0 }
+        50.500%       { opacity: 1 }
+        60.500%       { transform: translateX(435.6px); opacity: 1 }
+        71.500%       { transform: translateX(435.6px); opacity: 1 }
+        74.250%       { transform: translateX(0); opacity: 0 }
+        100%              { opacity: 0 }
+      }
+      #clip2 rect { animation: type2 16s steps(33, end) infinite }
+      #cursor2    { animation: cur2 16s steps(33, end) infinite }
+
+      @keyframes type3 {
+        0%, 75.000%      { width: 0 }
+        85.500%       { width: 475.2px }
+        96.500%       { width: 475.2px }
+        99.250%, 100% { width: 0 }
+      }
+      @keyframes cur3 {
+        0%, 75.000%      { transform: translateX(0); opacity: 0 }
+        75.500%       { opacity: 1 }
+        85.500%       { transform: translateX(475.2px); opacity: 1 }
+        96.500%       { transform: translateX(475.2px); opacity: 1 }
+        99.250%       { transform: translateX(0); opacity: 0 }
+        100%              { opacity: 0 }
+      }
+      #clip3 rect { animation: type3 16s steps(36, end) infinite }
+      #cursor3    { animation: cur3 16s steps(36, end) infinite }
+    </style>
+  </defs>
+  <g clip-path="url(#clip0)">
+    <text x="96.0" y="32" textLength="501.6" lengthAdjust="spacingAndGlyphs">6+ years building scalable web systems</text>
+  </g>
+  <rect id="cursor0" class="cur" x="96.0" y="19" width="2.5" height="26" opacity="0"/>
+  <g clip-path="url(#clip1)">
+    <text x="96.0" y="32" textLength="528.0" lengthAdjust="spacingAndGlyphs">PHP 8 · Laravel 11 · Vue 3 · Python · Go</text>
+  </g>
+  <rect id="cursor1" class="cur" x="96.0" y="19" width="2.5" height="26" opacity="0"/>
+  <g clip-path="url(#clip2)">
+    <text x="96.0" y="32" textLength="435.6" lengthAdjust="spacingAndGlyphs">ETL, data migration &amp; BI accuracy</text>
+  </g>
+  <rect id="cursor2" class="cur" x="96.0" y="19" width="2.5" height="26" opacity="0"/>
+  <g clip-path="url(#clip3)">
+    <text x="96.0" y="32" textLength="475.2" lengthAdjust="spacingAndGlyphs">Founder of AttriOn — TikTok Ads SaaS</text>
+  </g>
+  <rect id="cursor3" class="cur" x="96.0" y="19" width="2.5" height="26" opacity="0"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub streak: 7 day current streak, 28 day longest streak, 1644 total contributions">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FE428E"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+    <style>
+      .big { font: 700 30px 'Segoe UI', Ubuntu, sans-serif; fill: #A9FEF7 }
+      .cur { font: 700 34px 'Segoe UI', Ubuntu, sans-serif; fill: #FE428E }
+      .lbl { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #FE428E; letter-spacing: .6px }
+      .sub { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #5F5A7A }
+      .fade { opacity: 0; animation: f .8s ease forwards }
+      @keyframes f { to { opacity: 1 } }
+      @keyframes pulse { 0%,100% { transform: scale(1); opacity:.85 } 50% { transform: scale(1.05); opacity:1 } }
+      .halo { transform-origin: 247.5px 62px; animation: pulse 2.6s ease-in-out infinite }
+      .bg { fill: #141321 }
+      @media (prefers-color-scheme: light) {
+        .bg  { fill: #FFFFFF }
+        .big { fill: #1F2328 }
+        .cur { fill: #D6336C }
+        .lbl { fill: #D6336C }
+        .sub { fill: #6E7681 }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="495" height="195" rx="8"/>
+
+  <line x1="170.77499999999998" y1="34" x2="170.77499999999998" y2="161" stroke="#5F5A7A" stroke-opacity=".35"/>
+  <line x1="324.225" y1="34" x2="324.225" y2="161" stroke="#5F5A7A" stroke-opacity=".35"/>
+
+  
+  <g class="fade" style="animation-delay:0.2s">
+    <text class="big" x="91.575" y="70" text-anchor="middle">1,644</text>
+    <text class="lbl" x="91.575" y="112" text-anchor="middle">Total de Contribuições</text>
+    <text class="sub" x="91.575" y="140" text-anchor="middle">Jul 20, 2017 — Hoje</text>
+  </g>
+
+  <g class="fade" style="animation-delay:.38s">
+    <circle class="halo" cx="247.5" cy="62" r="42" fill="none" stroke="url(#ring)" stroke-width="4"/>
+    <text class="cur" x="247.5" y="72" text-anchor="middle">7</text>
+    <text class="lbl" x="247.5" y="126" text-anchor="middle">Sequência Atual</text>
+    <text class="sub" x="247.5" y="148" text-anchor="middle">Jul 22, 2026 — Jul 28, 2026</text>
+  </g>
+
+  
+  <g class="fade" style="animation-delay:0.56s">
+    <text class="big" x="403.42499999999995" y="70" text-anchor="middle">28</text>
+    <text class="lbl" x="403.42499999999995" y="112" text-anchor="middle">Maior Sequência</text>
+    <text class="sub" x="403.42499999999995" y="140" text-anchor="middle">Apr 17, 2026 — May 14, 2026</text>
+  </g>
+</svg>

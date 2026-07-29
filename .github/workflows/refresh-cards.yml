@@ -1,0 +1,45 @@
+name: Refresh profile cards
+
+# Roda scripts/refresh-cards.mjs e commita os SVGs atualizados.
+# O mesmo script pode ser executado na mão:  node scripts/refresh-cards.mjs
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # Todo dia às 3h UTC
+  workflow_dispatch: # Botão "Run workflow" na aba Actions
+  push:
+    branches: [main]
+    paths:
+      - "scripts/refresh-cards.mjs" # Regera quando o gerador muda
+
+# Impede duas execuções simultâneas disputando o mesmo `git push`
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necessário para commitar os SVGs de volta
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate cards
+        env:
+          # Um PAT com escopo `repo` faz os números incluírem os repositórios
+          # privados. Sem ele, cai no GITHUB_TOKEN e só conta o que é público.
+          GH_TOKEN: ${{ secrets.CARDS_PAT || secrets.GITHUB_TOKEN }}
+        run: node scripts/refresh-cards.mjs
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/assets
+          git commit -m "chore: refresh profile cards" || exit 0
+          git push

@@ -1,49 +1,70 @@
-# Olá, eu sou o Davi Oliveira! 👋
+<div align="center">
 
-### 👨‍💻 Sobre mim:
-Sou um desenvolvedor apaixonado por criar soluções elegantes e eficientes. Com uma base sólida em PHP e Laravel, busco constantemente aprender novas tecnologias para construir aplicações web robustas e de alta qualidade. Fora do código, gosto de explorar o mundo dos jogos digitais, o que me dá uma perspectiva criativa para a resolução de problemas.
+# 👋 `oPaozinh0/.github`
 
-- 🔭 Atualmente sou Desenvolvedor Fullstack na **Amplimed**.
-- 🌱 Especializado na criação de aplicações web robustas e escaláveis com Laravel.
-- 📫 Como me encontrar: [davioliveira353.do@gmail.com](mailto:davioliveira353.do@gmail.com).
+**Repositório especial do meu perfil no GitHub.**
 
-### 🛠️ Habilidades e Ferramentas
+<img src="https://img.shields.io/badge/Special%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Special repo" />
+<img src="https://img.shields.io/badge/Zero%20depend%C3%AAncias%20externas-FE428E?style=for-the-badge&logo=svg&logoColor=white" alt="Zero dependências externas" />
 
-**Linguagens:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
-**Frameworks:**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-**Bancos de Dados:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 📁 O que tem aqui
 
-**DevOps & Ferramentas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+| Caminho | O que é |
+|---|---|
+| [`profile/README.md`](profile/README.md) | O README que aparece no meu perfil ✨ (inglês) |
+| [`profile/README.pt-BR.md`](profile/README.pt-BR.md) | A mesma coisa, em português |
+| `profile/assets/*.svg` | Todos os cards, banners e gráficos — arquivos estáticos |
+| [`scripts/refresh-cards.mjs`](scripts/refresh-cards.mjs) | O gerador que produz todos esses SVGs |
+| [`.github/workflows/refresh-cards.yml`](.github/workflows/refresh-cards.yml) | Roda o gerador diariamente |
 
-*Habilidades extraídas do ficheiro `app/View/Components/SkillsSection.php`.*
+---
 
-### 📊 Estatísticas do GitHub:
-[![Estatísticas do GitHub de oPaozinh0](https://github-readme-stats.vercel.app/api?username=oPaozinh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oPaozinh0&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🎨 Por que os SVGs são gerados localmente
 
-### 🔗 Conecte-se comigo:
-<a href="https://www.linkedin.com/in/davio-vieira" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://wa.me/5518998268057" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+Os cards são gerados por um script e commitados como arquivos estáticos. Duas vantagens:
 
-*Links e informações de contacto extraídos dos ficheiros `app/View/Components/HeroSection.php` e `app/View/Components/SiteFooter.php`.*
+- **Carregam sempre** — o perfil não depende de nenhum serviço de terceiros estar de pé
+- **Números reais** — o gerador usa um token com escopo `repo`, então as estatísticas
+  incluem os repositórios privados, onde está a maior parte do meu trabalho
+
+---
+
+## 🔄 Como atualizar os cards
+
+```bash
+node scripts/refresh-cards.mjs             # gera tudo (~2 min)
+node scripts/refresh-cards.mjs --no-snake  # pula a cobrinha, que é a etapa lenta
+```
+
+Depois é só commitar o que mudou em `profile/assets/`.
+
+**Requisitos:** Node 18+, `git` e `gh auth login` já feito.
+
+O que o script produz:
+
+- `banner.svg` · `typing.svg` · `footer.svg` — identidade visual, com animação SVG nativa
+- `stack.svg` — a stack inteira num único arquivo, no lugar de ~45 badges do shields.io
+- `metrics.svg` · `achievements.svg` — números de carreira e conquistas
+- `stats.svg` · `top-langs.svg` — via `github-readme-stats` rodado localmente
+- `streak.svg` · `activity.svg` — calculados direto da API GraphQL
+- `github-snake*.svg` — a cobrinha comendo o gráfico de contribuições
+
+Cada card com texto sai em duas versões: inglês e `.pt-BR`. Os SVGs trazem um
+`@media (prefers-color-scheme: light)` interno, então **o mesmo arquivo se adapta
+ao tema claro ou escuro** do visitante, sem precisar de dois assets.
+
+---
+
+## 🔗 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/davio-vieira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:davioliveira353.do@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/5518998268057"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+</div>

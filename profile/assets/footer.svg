@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#241a3a"/>
+      <stop offset="100%" stop-color="#0D0C1D"/>
+    </linearGradient>
+    <style>
+      .sig { font: 500 12px 'Consolas','Fira Code',monospace; fill: #5F5A7A; letter-spacing: 1.4px }
+    </style>
+  </defs>
+  <rect width="1000" height="130" fill="url(#fg)"/>
+  
+  <g opacity="0.22">
+    <path fill="#9D4EDD" d="M0,56 C 150,70 350,42 500,56 C 650,70 850,42 1000,56 L1000,0 L0,0 Z">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 30,-5; 0,0; -30,5; 0,0" dur="15s" begin="0s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <g opacity="0.18">
+    <path fill="#FE428E" d="M0,42 C 150,53 350,31 500,42 C 650,53 850,31 1000,42 L1000,0 L0,0 Z">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 30,-5; 0,0; -30,5; 0,0" dur="19s" begin="1.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text class="sig" x="500" y="112" text-anchor="middle">thanks for scrolling — let's build something together</text>
+</svg>
