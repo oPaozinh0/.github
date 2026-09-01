@@ -1,0 +1,124 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=1.25cm,right=1.25cm,top=1.0cm,bottom=1.0cm]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% --- Configuração de Cores e Links ---
+\definecolor{darkblue}{RGB}{0,0,139}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=darkblue,
+    urlcolor=darkblue,
+}
+
+% --- Formatação dos Títulos ---
+\titleformat{\section}{\large\bfsheries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+% --- Remoção de numeração de página ---
+\pagestyle{empty}
+
+\begin{document}
+
+% --- CABEÇALHO ---
+\begin{center}
+    {\Huge \textbf{Davi de Oliveira Vieira}} \\ [4pt]
+    {\Large \textbf{Senior Full Stack Developer | PHP, Laravel, Vue.js \& Python \textbar{} SaaS \& Data Engineering}} \\ [4pt]
+    São Paulo, Brazil \textbullet\ +55 (18) 99826-8057 \textbullet\ \href{mailto:davioliveira353.do@gmail.com}{davioliveira353.do@gmail.com} \\
+    \href{https://www.linkedin.com/in/davio-vieira}{linkedin.com/in/davio-vieira}
+\end{center}
+
+% --- RESUMO PROFISSIONAL ---
+\section{Professional Summary}
+Full Stack Developer with over 6 years of technical experience and a proven track record in leading agile teams and strategic communication with stakeholders. Specialist in scalable architecture using \textbf{PHP (Laravel) and Vue.js}, focused on aligning engineering solutions with business goals. Expertise in performance optimization, CI/CD, and applying Data Science to the Backend.
+
+% --- HABILIDADES TÉCNICAS ---
+\section{Technical Skills}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Backend \& APIs:} PHP 8, Laravel 11, Eloquent ORM, RESTful APIs, GraphQL, Microservices, Swagger/OpenAPI.
+    \item \textbf{Frontend:} Vue.js 3 (Composition API), Tailwind CSS, TypeScript, JavaScript ES6+, Blade Templates.
+    \item \textbf{Infrastructure \& Cloud:} Docker, Kubernetes (Basics), Linux (Ubuntu Server), Nginx, AWS/DigitalOcean (VPS).
+    \item \textbf{Tools \& Versioning:} \textbf{Git (Version Control)}, GitHub Actions (CI/CD), JIRA, Bitbucket.
+    \item \textbf{Databases:} MySQL, PostgreSQL, Redis (Caching/Queues), SQL Query Optimization.
+    \item \textbf{Productivity \& AI:} Accelerated Development (Cursor, OpenCode), Prompt Engineering for refactoring and testing.
+    \item \textbf{Methodologies:} Scrum, Kanban, TDD, Clean Architecture, SOLID Principles, Code Review Leadership.
+\end{itemize}
+
+% --- EXPERIÊNCIA PROFISSIONAL ---
+\section{Professional Experience}
+
+% Ajuste de Data: Nov 2025 para evitar sobreposição
+\noindent \textbf{Proprietary Projects (SaaS)} \hfill Remote \\
+\textit{Founder \& Lead Developer} \hfill Nov 2025 -- Present
+\begin{itemize}[noitemsep, topsep=2pt]
+    \item \textbf{AttriOn (TikTok Ads SaaS):} Integrated the TikTok Business API for campaign automation, supporting multiple concurrent users with a secure architecture.
+        \item \textbf{Infrastructure:} Implemented production environments using Docker and CI/CD, ensuring high availability (99.9\% uptime).
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent \textbf{Amplimed} \hfill Chapecó, Brazil (Remote) \\
+\textit{Full Stack Developer} \hfill May 2025 -- Oct 2025
+\begin{itemize}[noitemsep, topsep=2pt]
+    \item Reduced API latency by \textbf{30\%} through critical endpoint optimization, directly improving the end-user experience.
+    \item Refactored legacy components to \textbf{Vue.js}, increasing code maintainability and eliminating accumulated technical debt.
+    \item Implemented automated tests (PHPUnit) with \textbf{80\% coverage} on new features, drastically cutting rework and production bugs.
+    \item Provided technical leadership in Code Reviews, raising the team's delivery quality standards.
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent \textbf{Amplimed} \hfill Chapecó, Brazil \\
+\textit{Data and Backend Engineer} \hfill Jul 2024 -- May 2025
+\begin{itemize}[noitemsep, topsep=2pt]
+    \item Ensured \textbf{100\% integrity} in critical health data by processing millions of records with custom PHP/SQL scripts.
+    \item Automated manual ETL processes, saving approximately \textbf{20 hours per month} for the operational team and reducing human error.
+    \item Documented data architecture and APIs, accelerating new developer onboarding by 50\%.
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent \textbf{Amplimed} \hfill Chapecó, Brazil \\
+\textit{Data Migration Engineer} \hfill Sep 2022 -- Jul 2024
+\begin{itemize}[noitemsep, topsep=2pt]
+    \item Managed complex legacy database migrations maintaining zero data loss.
+    \item Reduced average migration time from 2 days to \textbf{10 hours} through the development of proprietary conversion tools.
+\end{itemize}
+
+\vspace{3pt}
+
+\noindent \textbf{Amplimed} \hfill Chapecó, Brazil \\
+\textit{Level 2 Technical Support} \hfill Oct 2021 -- Sep 2022
+\begin{itemize}[noitemsep, topsep=2pt]
+    \item Resolution of complex technical incidents with a satisfaction score (CSAT) exceeding 95\%.
+\end{itemize}
+
+% --- FORMAÇÃO ACADÊMICA ---
+\section{Education}
+
+\noindent \textbf{Faculdade Metropolitana do Estado de São Paulo} \hfill Remote (EAD) \\
+\textit{MBA in Data Science and Big Data Analytics} \hfill Jan 2024
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Focus: Machine Learning and Analytics applied to business.
+\end{itemize}
+
+\vspace{2pt}
+
+\noindent \textbf{UniSALESIANO} \hfill Araçatuba, Brazil \\
+\textit{Technologist Degree in Digital Game Development} \hfill Dec 2020
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Graduated with academic honors ("Summa cum Laude").
+\end{itemize}
+
+% --- CERTIFICAÇÕES E IDIOMAS ---
+\section{Certifications \& Languages}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Languages:} Portuguese (Native) | English (Advanced - Reading, Writing, and Speaking).
+\end{itemize}
+
+\end{document}
